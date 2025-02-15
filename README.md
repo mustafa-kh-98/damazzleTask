@@ -62,8 +62,8 @@ Follow these steps to set up and run the project on your local machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/mustafa-kh-98/damazzleTask.git
+   cd damazzleTask
    ```
 
 2. **Install dependencies**:
