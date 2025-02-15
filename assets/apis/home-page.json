@@ -1,0 +1,735 @@
+{
+  "data": {
+    "governorates": [
+      {
+        "id": 1,
+        "name": "Aleppo"
+      },
+      {
+        "id": 2,
+        "name": "Damascus"
+      },
+      {
+        "id": 3,
+        "name": "Rif Dimashq (Damascus Countryside)"
+      },
+      {
+        "id": 4,
+        "name": "Homs"
+      },
+      {
+        "id": 5,
+        "name": "Hama"
+      },
+      {
+        "id": 6,
+        "name": "Latakia"
+      },
+      {
+        "id": 7,
+        "name": "Idlib"
+      },
+      {
+        "id": 8,
+        "name": "Deir ez-Zor"
+      },
+      {
+        "id": 9,
+        "name": "Al-Hasakah"
+      },
+      {
+        "id": 10,
+        "name": "Raqqa"
+      },
+      {
+        "id": 11,
+        "name": "Daraa"
+      },
+      {
+        "id": 12,
+        "name": "As-Suwayda"
+      },
+      {
+        "id": 13,
+        "name": "Tartus"
+      },
+      {
+        "id": 14,
+        "name": "Quneitra"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Vehicles",
+        "description": null,
+        "required_images": 0,
+        "slug": "vehicles",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+        "banner_image": null,
+        "ads_count": 10,
+        "parent": null,
+        "created_at": "2025-02-11T13:44:47.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 118,
+        "name": "Classifieds",
+        "description": null,
+        "required_images": 0,
+        "slug": "classifieds",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/HLUEQrtempfile_20250211134647000.png",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": null,
+        "created_at": "2025-02-11T13:46:47.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 139,
+        "name": "Society",
+        "description": null,
+        "required_images": 0,
+        "slug": "society",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/j3IguCtempfile_20250211134702000.png",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": null,
+        "created_at": "2025-02-11T13:47:02.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 152,
+        "name": "Electronics",
+        "description": null,
+        "required_images": 0,
+        "slug": "electronics",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/vYt0Hstempfile_20250211134713000.png",
+        "banner_image": null,
+        "ads_count": 6,
+        "parent": null,
+        "created_at": "2025-02-11T13:47:13.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 159,
+        "name": "Clothing \/ Accessories",
+        "description": null,
+        "required_images": 0,
+        "slug": "clothing-accessories",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/1uI5mhtempfile_20250211134720000.png",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": null,
+        "created_at": "2025-02-11T13:47:20.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 173,
+        "name": "Cell Phones",
+        "description": null,
+        "required_images": 0,
+        "slug": "cell-phones",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/954WxTtempfile_20250211134733000.png",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": null,
+        "created_at": "2025-02-11T13:47:33.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 183,
+        "name": "Jobs and Business",
+        "description": null,
+        "required_images": 0,
+        "slug": "jobs-and-business",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/Nliy6ctempfile_20250211134741000.png",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": null,
+        "created_at": "2025-02-11T13:47:41.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 232,
+        "name": "Properties for rent",
+        "description": null,
+        "required_images": 0,
+        "slug": "properties-for-rent",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+        "banner_image": null,
+        "ads_count": 9,
+        "parent": null,
+        "created_at": "2025-02-11T13:48:06.000000Z",
+        "created_by": null
+      },
+      {
+        "id": 240,
+        "name": "Properties for sale",
+        "description": null,
+        "required_images": 0,
+        "slug": "properties-for-sale",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/1degLWtempfile_20250211134813000.png",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": null,
+        "created_at": "2025-02-11T13:48:13.000000Z",
+        "created_by": null
+      }
+    ],
+    "banners": [
+      {
+        "id": 1,
+        "title": "Real Estate",
+        "description": "A collection of real estate properties for sale and rent.",
+        "media": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/Ad1G9VavxF5.png",
+        "actions": [
+          {
+            "title": "WhatsApp",
+            "link": "https:\/\/api.whatsapp.com\/send\/?phone=+97474747474",
+            "icon": ""
+          }
+        ],
+        "created_at": "2025-02-11T13:48:25.000000Z",
+        "created_by": null
+      }
+    ],
+    "featuredAds": [
+      {
+        "id": 26,
+        "slug": "test",
+        "title": "test",
+        "description": "testss",
+        "category": {
+          "id": 152,
+          "name": "Electronics",
+          "description": null,
+          "required_images": 0,
+          "slug": "electronics",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/vYt0Hstempfile_20250211134713000.png",
+          "banner_image": null,
+          "ads_count": 6,
+          "parent": null,
+          "created_at": "2025-02-11T13:47:13.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": true,
+        "categories": [],
+        "created_by": null
+      }
+    ],
+    "latestAds": [
+      {
+        "id": 19,
+        "slug": "golden-opportunity",
+        "title": "Golden Opportunity",
+        "description": "Detailed description for the ad Golden Opportunity.",
+        "category": {
+          "id": 1,
+          "name": "Vehicles",
+          "description": null,
+          "required_images": 0,
+          "slug": "vehicles",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+          "banner_image": null,
+          "ads_count": 10,
+          "parent": null,
+          "created_at": "2025-02-11T13:44:47.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 1,
+            "name": "Vehicles",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+            "banner_image": null,
+            "slug": "vehicles",
+            "ads_count": 10,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:44:47.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 20,
+        "slug": "innovative-products",
+        "title": "Innovative Products",
+        "description": "Detailed description for the ad Innovative Products.",
+        "category": {
+          "id": 232,
+          "name": "Properties for rent",
+          "description": null,
+          "required_images": 0,
+          "slug": "properties-for-rent",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+          "banner_image": null,
+          "ads_count": 9,
+          "parent": null,
+          "created_at": "2025-02-11T13:48:06.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 232,
+            "name": "Properties for rent",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+            "banner_image": null,
+            "slug": "properties-for-rent",
+            "ads_count": 9,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:48:06.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 21,
+        "slug": "massive-discounts",
+        "title": "Massive Discounts",
+        "description": "Detailed description for the ad Massive Discounts.",
+        "category": {
+          "id": 232,
+          "name": "Properties for rent",
+          "description": null,
+          "required_images": 0,
+          "slug": "properties-for-rent",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+          "banner_image": null,
+          "ads_count": 9,
+          "parent": null,
+          "created_at": "2025-02-11T13:48:06.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 232,
+            "name": "Properties for rent",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+            "banner_image": null,
+            "slug": "properties-for-rent",
+            "ads_count": 9,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:48:06.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 22,
+        "slug": "unrivaled-quality",
+        "title": "Unrivaled Quality",
+        "description": "Detailed description for the ad Unrivaled Quality.",
+        "category": {
+          "id": 1,
+          "name": "Vehicles",
+          "description": null,
+          "required_images": 0,
+          "slug": "vehicles",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+          "banner_image": null,
+          "ads_count": 10,
+          "parent": null,
+          "created_at": "2025-02-11T13:44:47.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 1,
+            "name": "Vehicles",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+            "banner_image": null,
+            "slug": "vehicles",
+            "ads_count": 10,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:44:47.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 23,
+        "slug": "stunning-offers",
+        "title": "Stunning Offers",
+        "description": "Detailed description for the ad Stunning Offers.",
+        "category": {
+          "id": 1,
+          "name": "Vehicles",
+          "description": null,
+          "required_images": 0,
+          "slug": "vehicles",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+          "banner_image": null,
+          "ads_count": 10,
+          "parent": null,
+          "created_at": "2025-02-11T13:44:47.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 1,
+            "name": "Vehicles",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+            "banner_image": null,
+            "slug": "vehicles",
+            "ads_count": 10,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:44:47.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 24,
+        "slug": "lifetime-opportunity",
+        "title": "Lifetime Opportunity",
+        "description": "Detailed description for the ad Lifetime Opportunity.",
+        "category": {
+          "id": 1,
+          "name": "Vehicles",
+          "description": null,
+          "required_images": 0,
+          "slug": "vehicles",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+          "banner_image": null,
+          "ads_count": 10,
+          "parent": null,
+          "created_at": "2025-02-11T13:44:47.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 1,
+            "name": "Vehicles",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+            "banner_image": null,
+            "slug": "vehicles",
+            "ads_count": 10,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:44:47.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 25,
+        "slug": "quick-deal",
+        "title": "Quick Deal",
+        "description": "Detailed description for the ad Quick Deal.",
+        "category": {
+          "id": 232,
+          "name": "Properties for rent",
+          "description": null,
+          "required_images": 0,
+          "slug": "properties-for-rent",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+          "banner_image": null,
+          "ads_count": 9,
+          "parent": null,
+          "created_at": "2025-02-11T13:48:06.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": false,
+        "categories": [
+          {
+            "id": 232,
+            "name": "Properties for rent",
+            "description": null,
+            "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3zxtmWtempfile_20250211134806000.png",
+            "banner_image": null,
+            "slug": "properties-for-rent",
+            "ads_count": 9,
+            "parent_id": null,
+            "created_at": "2025-02-11T13:48:06.000000Z",
+            "show_ads_in_home": 0,
+            "created_by": null
+          }
+        ],
+        "created_by": null
+      },
+      {
+        "id": 26,
+        "slug": "test",
+        "title": "test",
+        "description": "testss",
+        "category": {
+          "id": 152,
+          "name": "Electronics",
+          "description": null,
+          "required_images": 0,
+          "slug": "electronics",
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/vYt0Hstempfile_20250211134713000.png",
+          "banner_image": null,
+          "ads_count": 6,
+          "parent": null,
+          "created_at": "2025-02-11T13:47:13.000000Z",
+          "created_by": null
+        },
+        "status": 1,
+        "status_title": "Active",
+        "published_status": 1,
+        "published_status_title": "Published",
+        "area": {
+          "name": "Bab Touma"
+        },
+        "governorate": {
+          "name": "Aleppo"
+        },
+        "price": null,
+        "price_type": 2,
+        "price_type_title": "Price on Call",
+        "views_count": 0,
+        "cover_image": null,
+        "customer": {
+          "id": 1,
+          "email": "super-admin@damazzle.com",
+          "phone": "0585561707",
+          "name": "super admin",
+          "type": 2,
+          "image": null
+        },
+        "published_date": "2025-02-11",
+        "address": null,
+        "created_at": "2025-02-11T13:48:24.000000Z",
+        "is_featured": true,
+        "categories": [],
+        "created_by": null
+      }
+    ],
+    "categories_ads": []
+  },
+  "message": "success",
+  "status_code": 200
+}

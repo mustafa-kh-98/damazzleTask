@@ -1,0 +1,80 @@
+name: damazsle
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  #====== Localization ========
+  flutter_localizations:
+    sdk: flutter
+
+  #====== Management ========
+  flutter_gen: ^5.9.0
+  get_cli: ^1.9.0
+
+  #==== State Managment =======
+  get: ^4.6.6
+
+  #========= Media =======
+  cached_network_image: ^3.4.1
+  flutter_svg: ^2.0.17
+
+  #======== UI ==========
+  carousel_slider: ^5.0.0
+  smooth_page_indicator: ^1.1.0
+  theme_tailor_annotation: ^3.0.1
+  device_preview: ^1.2.0
+  fluttertoast: ^8.2.12
+  shimmer: ^3.0.0
+  url_launcher: ^6.2.3
+  sliver_tools: ^0.2.12
+  readmore: 2.2.0
+  get_storage: ^2.1.1
+  dio: ^5.8.0+1
+  flutter_widget_from_html: ^0.15.3
+  photo_view: ^0.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_gen_runner: ^5.9.0
+  build_runner: ^2.4.12
+  theme_tailor: ^3.0.1
+
+
+  flutter_lints: ^4.0.0
+
+dependency_overrides:
+  collection: ^1.18.0
+
+flutter_gen:
+  output: lib/core/styles/assets/
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/
+    - assets/langs/
+    - assets/images/
+    - assets/apis/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Cairo-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Cairo-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Cairo-Regular.ttf
+          weight: 400

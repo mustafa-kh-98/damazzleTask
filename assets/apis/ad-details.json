@@ -1,0 +1,876 @@
+{
+  "data": {
+    "ad": {
+      "id": 31,
+      "slug": "car-audi-for-rent",
+      "title": "Car Audi for rent",
+      "description": "<font face=\"Arial\">test<\/font><p><font face=\"Arial\">afddsfgdsf<\/font><\/p><p><font face=\"Arial\">dsfgdsdf<\/font><\/p><p><font face=\"Arial\"><br><\/font><\/p>",
+      "category": {
+        "id": 6,
+        "name": "Audi",
+        "description": null,
+        "required_images": 0,
+        "slug": "audi",
+        "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/JiEGJbtempfile_20250211134452000.jpg",
+        "banner_image": null,
+        "ads_count": 0,
+        "parent": {
+          "id": 2,
+          "name": "Cars",
+          "description": null,
+          "required_images": 0,
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/1wdmjitempfile_20250211134448000.png",
+          "slug": "cars"
+        },
+        "created_at": "2025-02-11T13:44:52.000000Z",
+        "created_by": null
+      },
+      "status": 1,
+      "status_title": "Active",
+      "published_status": 2,
+      "published_status_title": "Pending",
+      "area": {
+        "name": "Saida Zeinab"
+      },
+      "governorate": {
+        "name": "Damascus"
+      },
+      "price": 2000000,
+      "price_type": 3,
+      "price_type_title": "Negotiable",
+      "views_count": 0,
+      "cover_image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3_20250211135117000.jpg",
+      "customer": {
+        "id": 2,
+        "email": "ramez@damazzle.com",
+        "phone": "0585561705",
+        "name": "Ramez",
+        "type": 1,
+        "image": null
+      },
+      "published_date": null,
+      "address": null,
+      "created_at": "2025-02-11T13:51:16.000000Z",
+      "is_featured": false,
+      "categories": [
+        {
+          "id": 6,
+          "name": "Audi",
+          "description": null,
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/JiEGJbtempfile_20250211134452000.jpg",
+          "banner_image": null,
+          "slug": "audi",
+          "ads_count": 0,
+          "parent_id": 2,
+          "created_at": "2025-02-11T13:44:52.000000Z",
+          "show_ads_in_home": 0,
+          "created_by": null
+        },
+        {
+          "id": 2,
+          "name": "Cars",
+          "description": null,
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/1wdmjitempfile_20250211134448000.png",
+          "banner_image": null,
+          "slug": "cars",
+          "ads_count": 0,
+          "parent_id": 1,
+          "created_at": "2025-02-11T13:44:48.000000Z",
+          "show_ads_in_home": 0,
+          "created_by": null
+        },
+        {
+          "id": 1,
+          "name": "Vehicles",
+          "description": null,
+          "image": "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/fBWFrhtempfile_20250211134446000.png",
+          "banner_image": null,
+          "slug": "vehicles",
+          "ads_count": 10,
+          "parent_id": null,
+          "created_at": "2025-02-11T13:44:47.000000Z",
+          "show_ads_in_home": 0,
+          "created_by": null
+        }
+      ],
+      "created_by": {
+        "id": 1,
+        "email": "super-admin@damazzle.com",
+        "phone": "0585561707",
+        "name": "super admin",
+        "type": 2,
+        "image": null
+      },
+      "description_en": "<font face=\"Arial\">test<\/font><p><font face=\"Arial\">afddsfgdsf<\/font><\/p><p><font face=\"Arial\">dsfgdsdf<\/font><\/p><p><font face=\"Arial\"><br><\/font><\/p>",
+      "description_ar": "\u064a\u064a\u064a\u064a\u064a\u064a<p><br><\/p><p>\u064a\u064a\u064a\u064a\u064a<\/p><p>\u064a\u064a\u064a\u0633\u0628\u0633\u064a\u0628<\/p><p><br><\/p>",
+      "fields": [
+        {
+          "id": 254,
+          "value": {
+            "ar": "2012",
+            "en": "2012",
+            "option_id": "2"
+          },
+          "template_field": {
+            "id": 1,
+            "field_name": "Make Year",
+            "field": {
+              "id": 1,
+              "title": "Make Year",
+              "field_type": 2,
+              "options": [
+                {
+                  "id": 1,
+                  "value_ar": "2011",
+                  "value_en": "2011"
+                },
+                {
+                  "id": 2,
+                  "value_ar": "2012",
+                  "value_en": "2012"
+                },
+                {
+                  "id": 3,
+                  "value_ar": "2013",
+                  "value_en": "2013"
+                }
+              ],
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 255,
+          "value": {
+            "ar": "\u0623\u062d\u0645\u0631",
+            "en": "Red",
+            "option_id": "4"
+          },
+          "template_field": {
+            "id": 2,
+            "field_name": "Color",
+            "field": {
+              "id": 2,
+              "title": "Color",
+              "field_type": 2,
+              "options": [
+                {
+                  "id": 4,
+                  "value_ar": "\u0623\u062d\u0645\u0631",
+                  "value_en": "Red"
+                },
+                {
+                  "id": 5,
+                  "value_ar": "\u0623\u0632\u0631\u0642",
+                  "value_en": "Blue"
+                },
+                {
+                  "id": 6,
+                  "value_ar": "\u0623\u062e\u0636\u0631",
+                  "value_en": "Green"
+                }
+              ],
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 256,
+          "value": {
+            "ar": "30000",
+            "en": "30000"
+          },
+          "template_field": {
+            "id": 3,
+            "field_name": "Price",
+            "field": {
+              "id": 3,
+              "title": "Price",
+              "field_type": 5,
+              "options": null,
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 257,
+          "value": {
+            "ar": "400",
+            "en": "400"
+          },
+          "template_field": {
+            "id": 4,
+            "field_name": "Condition",
+            "field": {
+              "id": 6,
+              "title": "Mileage",
+              "field_type": 7,
+              "options": null,
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 258,
+          "value": {
+            "ar": "\u0643\u0647\u0631\u0628\u0627\u0621",
+            "en": "Electric",
+            "option_id": "15"
+          },
+          "template_field": {
+            "id": 5,
+            "field_name": "Fuel Type",
+            "field": {
+              "id": 9,
+              "title": "Fuel Type",
+              "field_type": 2,
+              "options": [
+                {
+                  "id": 13,
+                  "value_ar": "\u0628\u0646\u0632\u064a\u0646",
+                  "value_en": "Petrol"
+                },
+                {
+                  "id": 14,
+                  "value_ar": "\u062f\u064a\u0632\u0644",
+                  "value_en": "Diesel"
+                },
+                {
+                  "id": 15,
+                  "value_ar": "\u0643\u0647\u0631\u0628\u0627\u0621",
+                  "value_en": "Electric"
+                }
+              ],
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 259,
+          "value": {
+            "ar": "\u062c\u062f\u064a\u062f",
+            "en": "New",
+            "option_id": "9"
+          },
+          "template_field": {
+            "id": 6,
+            "field_name": "Engine Capacity",
+            "field": {
+              "id": 7,
+              "title": "Condition",
+              "field_type": 6,
+              "options": [
+                {
+                  "id": 9,
+                  "value_ar": "\u062c\u062f\u064a\u062f",
+                  "value_en": "New"
+                },
+                {
+                  "id": 10,
+                  "value_ar": "\u0645\u0633\u062a\u0639\u0645\u0644",
+                  "value_en": "Used"
+                }
+              ],
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 260,
+          "value": {
+            "ar": "4",
+            "en": "4"
+          },
+          "template_field": {
+            "id": 7,
+            "field_name": "Number of Seats",
+            "field": {
+              "id": 10,
+              "title": "Engine Capacity",
+              "field_type": 7,
+              "options": null,
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 261,
+          "value": {
+            "ar": "\u0623\u0648\u062a\u0648\u0645\u0627\u062a\u064a\u0643",
+            "en": "Automatic",
+            "option_id": "11"
+          },
+          "template_field": {
+            "id": 8,
+            "field_name": "Transmission",
+            "field": {
+              "id": 8,
+              "title": "Transmission",
+              "field_type": 2,
+              "options": [
+                {
+                  "id": 11,
+                  "value_ar": "\u0623\u0648\u062a\u0648\u0645\u0627\u062a\u064a\u0643",
+                  "value_en": "Automatic"
+                },
+                {
+                  "id": 12,
+                  "value_ar": "\u064a\u062f\u0648\u064a",
+                  "value_en": "Manual"
+                }
+              ],
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 262,
+          "value": {
+            "ar": "\u0646\u0639\u0645",
+            "en": "Yes",
+            "option_id": "19"
+          },
+          "template_field": {
+            "id": 9,
+            "field_name": "Warranty",
+            "field": {
+              "id": 13,
+              "title": "Warranty",
+              "field_type": 6,
+              "options": [
+                {
+                  "id": 19,
+                  "value_ar": "\u0646\u0639\u0645",
+                  "value_en": "Yes"
+                },
+                {
+                  "id": 20,
+                  "value_ar": "\u0644\u0627",
+                  "value_en": "No"
+                }
+              ],
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 263,
+          "value": {
+            "ar": "44",
+            "en": "44"
+          },
+          "template_field": {
+            "id": 10,
+            "field_name": "Discount",
+            "field": {
+              "id": 22,
+              "title": "Discount",
+              "field_type": 7,
+              "options": null,
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 264,
+          "value": {
+            "ar": "2014",
+            "en": "2014",
+            "option_id": "33"
+          },
+          "template_field": {
+            "id": 31,
+            "field_name": "Make Year",
+            "field": {
+              "id": 26,
+              "title": "Make Year",
+              "field_type": 2,
+              "options": [
+                {
+                  "id": 30,
+                  "value_ar": "2011",
+                  "value_en": "2011"
+                },
+                {
+                  "id": 31,
+                  "value_ar": "2012",
+                  "value_en": "2012"
+                },
+                {
+                  "id": 32,
+                  "value_ar": "2013",
+                  "value_en": "2013"
+                },
+                {
+                  "id": 33,
+                  "value_ar": "2014",
+                  "value_en": "2014"
+                },
+                {
+                  "id": 34,
+                  "value_ar": "2015",
+                  "value_en": "2015"
+                },
+                {
+                  "id": 35,
+                  "value_ar": "2016",
+                  "value_en": "2016"
+                }
+              ],
+              "created_at": "2025-02-11T13:48:24.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 265,
+          "value": {
+            "ar": "2013",
+            "en": "2013",
+            "option_id": "32"
+          },
+          "template_field": {
+            "id": 32,
+            "field_name": "Registered Year",
+            "field": {
+              "id": 27,
+              "title": "Registered Year",
+              "field_type": 2,
+              "options": [
+                {
+                  "id": 30,
+                  "value_ar": "2011",
+                  "value_en": "2011"
+                },
+                {
+                  "id": 31,
+                  "value_ar": "2012",
+                  "value_en": "2012"
+                },
+                {
+                  "id": 32,
+                  "value_ar": "2013",
+                  "value_en": "2013"
+                },
+                {
+                  "id": 33,
+                  "value_ar": "2014",
+                  "value_en": "2014"
+                },
+                {
+                  "id": 34,
+                  "value_ar": "2015",
+                  "value_en": "2015"
+                },
+                {
+                  "id": 35,
+                  "value_ar": "2016",
+                  "value_en": "2016"
+                }
+              ],
+              "created_at": "2025-02-11T13:48:24.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 266,
+          "value": {
+            "ar": "\u0623\u0646\u062b\u0649",
+            "en": "Female",
+            "option_id": "44"
+          },
+          "template_field": {
+            "id": 34,
+            "field_name": "Gender",
+            "field": {
+              "id": 30,
+              "title": "Gender",
+              "field_type": 6,
+              "options": [
+                {
+                  "id": 43,
+                  "value_ar": "\u0630\u0643\u0631",
+                  "value_en": "Male"
+                },
+                {
+                  "id": 44,
+                  "value_ar": "\u0623\u0646\u062b\u0649",
+                  "value_en": "Female"
+                }
+              ],
+              "created_at": "2025-02-11T13:48:24.000000Z",
+              "created_by": null
+            }
+          }
+        },
+        {
+          "id": 267,
+          "value": {
+            "ar": "2025-02-24",
+            "en": "2025-02-24"
+          },
+          "template_field": {
+            "id": 35,
+            "field_name": "Birth Date",
+            "field": {
+              "id": 31,
+              "title": "BirthDate",
+              "field_type": 4,
+              "options": null,
+              "created_at": "2025-02-11T13:48:24.000000Z",
+              "created_by": null
+            }
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 3,
+          "title": "test"
+        },
+        {
+          "id": 1,
+          "title": "Car"
+        },
+        {
+          "id": 4,
+          "title": "red"
+        },
+        {
+          "id": 5,
+          "title": "dd"
+        }
+      ],
+      "images": [
+        "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/1_20250211135117000.jpg",
+        "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/3_20250211135117000.jpg",
+        "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/2_20250211135117000.jpg",
+        "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/4_20250211135117000.jpg",
+        "https:\/\/dev-api.damazzle.com\/\/storage\/all_media\/Screenshot 2025-01-27 at 12.02.22\u202fPM_20250211135117000.png"
+      ]
+    },
+    "categories": [
+      {
+        "category": {
+          "id": 2,
+          "name": "Cars"
+        },
+        "templates": [
+          {
+            "id": 4,
+            "template_id": 4,
+            "category_id": 2,
+            "media_model_id": null,
+            "order": 1,
+            "template_title_ar": "\u062a\u0641\u0627\u0635\u064a\u0644 \u0627\u0644\u0633\u064a\u0627\u0631\u0629",
+            "template_title_en": "Car Details",
+            "created_by": null,
+            "updated_by": null,
+            "created_at": "2025-02-11T13:48:25.000000Z",
+            "updated_at": "2025-02-11T13:48:25.000000Z",
+            "deleted_at": null,
+            "template": {
+              "id": 4,
+              "name": "Cars Template",
+              "type": 3,
+              "created_by": null,
+              "updated_by": null,
+              "created_at": "2025-02-11T13:48:25.000000Z",
+              "updated_at": "2025-02-11T13:48:25.000000Z",
+              "deleted_at": null,
+              "fields": [
+                {
+                  "id": 31,
+                  "template_id": 4,
+                  "field_id": 26,
+                  "field_name_ar": "\u0633\u0646\u0629 \u0627\u0644\u0635\u0646\u0639",
+                  "field_name_en": "Make Year",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 1,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:48:25.000000Z",
+                  "updated_at": "2025-02-11T13:48:25.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"2014\",\"en\":\"2014\",\"option_id\":\"33\"}"
+                },
+                {
+                  "id": 32,
+                  "template_id": 4,
+                  "field_id": 27,
+                  "field_name_ar": "\u0633\u0646\u0629 \u0627\u0644\u062a\u0633\u062c\u064a\u0644",
+                  "field_name_en": "Registered Year",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 2,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:48:25.000000Z",
+                  "updated_at": "2025-02-11T13:48:25.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"2013\",\"en\":\"2013\",\"option_id\":\"32\"}"
+                },
+                {
+                  "id": 33,
+                  "template_id": 4,
+                  "field_id": 28,
+                  "field_name_ar": "\u0627\u0644\u0644\u0648\u0646",
+                  "field_name_en": "Color",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 3,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:48:25.000000Z",
+                  "updated_at": "2025-02-11T13:48:25.000000Z",
+                  "deleted_at": null,
+                  "value": null
+                },
+                {
+                  "id": 34,
+                  "template_id": 4,
+                  "field_id": 30,
+                  "field_name_ar": "\u0627\u0644\u062c\u0646\u0633",
+                  "field_name_en": "Gender",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 6,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:48:25.000000Z",
+                  "updated_at": "2025-02-11T13:48:25.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"\\u0623\\u0646\\u062b\\u0649\",\"en\":\"Female\",\"option_id\":\"44\"}"
+                },
+                {
+                  "id": 35,
+                  "template_id": 4,
+                  "field_id": 31,
+                  "field_name_ar": "\u0627\u0644\u0645\u064a\u0644\u0627\u062f",
+                  "field_name_en": "Birth Date",
+                  "is_required": 0,
+                  "show_in_search": 0,
+                  "order": 7,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:48:25.000000Z",
+                  "updated_at": "2025-02-11T13:48:25.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"2025-02-24\",\"en\":\"2025-02-24\"}"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "category": {
+          "id": 1,
+          "name": "Vehicles"
+        },
+        "templates": [
+          {
+            "id": 1,
+            "template_id": 1,
+            "category_id": 1,
+            "media_model_id": null,
+            "order": 1,
+            "template_title_ar": "Car Template",
+            "template_title_en": "Car Template",
+            "created_by": null,
+            "updated_by": null,
+            "created_at": "2025-02-11T13:44:47.000000Z",
+            "updated_at": "2025-02-11T13:44:47.000000Z",
+            "deleted_at": null,
+            "template": {
+              "id": 1,
+              "name": "Car Template",
+              "type": 1,
+              "created_by": null,
+              "updated_by": null,
+              "created_at": "2025-02-11T13:44:45.000000Z",
+              "updated_at": "2025-02-11T13:44:45.000000Z",
+              "deleted_at": null,
+              "fields": [
+                {
+                  "id": 1,
+                  "template_id": 1,
+                  "field_id": 1,
+                  "field_name_ar": "\u0633\u0646\u0629 \u0627\u0644\u0635\u0646\u0639",
+                  "field_name_en": "Make Year",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 1,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"2012\",\"en\":\"2012\",\"option_id\":\"2\"}"
+                },
+                {
+                  "id": 2,
+                  "template_id": 1,
+                  "field_id": 2,
+                  "field_name_ar": "\u0627\u0644\u0644\u0648\u0646",
+                  "field_name_en": "Color",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 2,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"\\u0623\\u062d\\u0645\\u0631\",\"en\":\"Red\",\"option_id\":\"4\"}"
+                },
+                {
+                  "id": 3,
+                  "template_id": 1,
+                  "field_id": 3,
+                  "field_name_ar": "\u0627\u0644\u0633\u0639\u0631",
+                  "field_name_en": "Price",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 3,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"30000\",\"en\":\"30000\"}"
+                },
+                {
+                  "id": 4,
+                  "template_id": 1,
+                  "field_id": 6,
+                  "field_name_ar": "\u0627\u0644\u062d\u0627\u0644\u0629",
+                  "field_name_en": "Condition",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 4,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"400\",\"en\":\"400\"}"
+                },
+                {
+                  "id": 5,
+                  "template_id": 1,
+                  "field_id": 9,
+                  "field_name_ar": "\u0646\u0648\u0639 \u0627\u0644\u0648\u0642\u0648\u062f",
+                  "field_name_en": "Fuel Type",
+                  "is_required": 0,
+                  "show_in_search": 1,
+                  "order": 5,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"\\u0643\\u0647\\u0631\\u0628\\u0627\\u0621\",\"en\":\"Electric\",\"option_id\":\"15\"}"
+                },
+                {
+                  "id": 6,
+                  "template_id": 1,
+                  "field_id": 7,
+                  "field_name_ar": "\u0633\u0639\u0629 \u0627\u0644\u0645\u062d\u0631\u0643",
+                  "field_name_en": "Engine Capacity",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 6,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"\\u062c\\u062f\\u064a\\u062f\",\"en\":\"New\",\"option_id\":\"9\"}"
+                },
+                {
+                  "id": 7,
+                  "template_id": 1,
+                  "field_id": 10,
+                  "field_name_ar": "\u0639\u062f\u062f \u0627\u0644\u0645\u0642\u0627\u0639\u062f",
+                  "field_name_en": "Number of Seats",
+                  "is_required": 0,
+                  "show_in_search": 1,
+                  "order": 7,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"4\",\"en\":\"4\"}"
+                },
+                {
+                  "id": 8,
+                  "template_id": 1,
+                  "field_id": 8,
+                  "field_name_ar": "\u0646\u0648\u0639 \u0627\u0644\u0646\u0642\u0644",
+                  "field_name_en": "Transmission",
+                  "is_required": 1,
+                  "show_in_search": 1,
+                  "order": 8,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"\\u0623\\u0648\\u062a\\u0648\\u0645\\u0627\\u062a\\u064a\\u0643\",\"en\":\"Automatic\",\"option_id\":\"11\"}"
+                },
+                {
+                  "id": 9,
+                  "template_id": 1,
+                  "field_id": 13,
+                  "field_name_ar": "\u0627\u0644\u0636\u0645\u0627\u0646",
+                  "field_name_en": "Warranty",
+                  "is_required": 0,
+                  "show_in_search": 1,
+                  "order": 9,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"\\u0646\\u0639\\u0645\",\"en\":\"Yes\",\"option_id\":\"19\"}"
+                },
+                {
+                  "id": 10,
+                  "template_id": 1,
+                  "field_id": 22,
+                  "field_name_ar": "\u0627\u0644\u062e\u0635\u0645",
+                  "field_name_en": "Discount",
+                  "is_required": 0,
+                  "show_in_search": 1,
+                  "order": 10,
+                  "created_by": null,
+                  "updated_by": null,
+                  "created_at": "2025-02-11T13:44:45.000000Z",
+                  "updated_at": "2025-02-11T13:44:45.000000Z",
+                  "deleted_at": null,
+                  "value": "{\"ar\":\"44\",\"en\":\"44\"}"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "message": "success",
+  "status_code": 200
+}
